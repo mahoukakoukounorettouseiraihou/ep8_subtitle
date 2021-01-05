@@ -1,0 +1,292 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.86,0:00:15.03,Default,,0,0,0,,{\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(280,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,20,\clip(128,46,440,130))}FEBRUARY 16, 2096
+Dialogue: 0,0:00:14.16,0:00:15.45,Default,,0,0,0,,Early this morning...
+Dialogue: 0,0:00:15.45,0:00:22.24,Default,,0,0,0,,the JMDF secured a small USNA Navy-affiliated\Nvessel in Japan's offshore territory.
+Dialogue: 0,0:00:22.24,0:00:26.74,Default,,0,0,0,,{\an8}Apparently, it had begun drifting\Nbecause of engine trouble...
+Dialogue: 0,0:00:26.42,0:00:30.41,Default,,0,0,0,,{\pos(636,522)}"SMALL USNA NAVY-AFFILIATED VESSEL\NDRIFTING BECAUSE OF ENGINE TROUBLE"
+Dialogue: 0,0:00:26.74,0:00:31.49,Default,,0,0,0,,{\an8}but a high-ranking military attaché at\Nthe USNA's Tokyo embassy was aboard the ship,
+Dialogue: 0,0:00:30.41,0:00:34.20,Default,,0,0,0,,{\pos(636,522)}"JMDF CURRENTLY VERIFYING THE FACTS"
+Dialogue: 0,0:00:31.49,0:00:37.12,Default,,0,0,0,,{\an8}so the JMDF is currently verifying\Nall the facts with the USNA military.
+Dialogue: 0,0:00:37.12,0:00:41.16,Default,,0,0,0,,It doesn't seem as though\Nit ran afoul of any poor weather.
+Dialogue: 0,0:00:41.16,0:00:43.95,Default,,0,0,0,,Maybe the issue\Nwas with their power source.
+Dialogue: 0,0:00:43.95,0:00:46.49,Default,,0,0,0,,After all, with how far automation\Nhas come in this day and age,
+Dialogue: 0,0:00:46.49,0:00:50.24,Default,,0,0,0,,a simple human error wouldn't have\Ncaused them to lose their steering.
+Dialogue: 0,0:00:50.24,0:00:52.74,Default,,0,0,0,,I see. That makes sense.
+Dialogue: 0,0:00:58.12,0:01:00.62,Default,,0,0,0,,It's a country's regular army.
+Dialogue: 0,0:01:00.62,0:01:02.99,Default,,0,0,0,,This response was too fast...
+Dialogue: 0,0:01:02.99,0:01:05.74,Default,,0,0,0,,even assuming\Nour aunt issued a direct order.
+Dialogue: 0,0:01:05.74,0:01:07.66,Default,,0,0,0,,Which means...
+Dialogue: 0,0:01:07.66,0:01:13.41,Default,,0,0,0,,their forces were already in position\Nby the time I contacted her.
+Dialogue: 0,0:01:13.41,0:01:16.04,Default,,0,0,0,,Well, I'm going to change into my uniform.
+Dialogue: 0,0:01:16.04,0:01:18.29,Default,,0,0,0,,Sure, go ahead.
+Dialogue: 0,0:01:24.29,0:01:30.62,Default,,0,0,0,,Our aunt had already called me\Nearlier about that news.
+Dialogue: 0,0:01:30.62,0:01:35.45,Default,,0,0,0,,And yet, I pretended\Nto be ignorant of the situation.
+Dialogue: 0,0:01:37.66,0:01:41.66,Default,,0,0,0,,But I don't care if he thinks of me\Nas a useless sister...
+Dialogue: 0,0:01:41.66,0:01:46.08,Default,,0,0,0,,if that's what it will take\Nfor him to stay at my side.
+Dialogue: 0,0:01:46.08,0:01:51.99,Default,,0,0,0,,If it's decided that I can do my job\Nindependently as leader of the Yotsuba,
+Dialogue: 0,0:01:51.99,0:01:55.58,Default,,0,0,0,,he might leave me.
+Dialogue: 0,0:01:56.66,0:02:00.49,Default,,0,0,0,,And I'll eventually\Nhave to get married soon enough, too.
+Dialogue: 0,0:02:00.49,0:02:03.70,Default,,0,0,0,,They'll expect me to have children.
+Dialogue: 0,0:02:03.70,0:02:09.41,Default,,0,0,0,,Those are the requirements of a candidate\Nfor the next leader of the Yotsuba.
+Dialogue: 0,0:02:09.41,0:02:10.62,Default,,0,0,0,,But...
+Dialogue: 0,0:02:10.62,0:02:13.24,Default,,0,0,0,,I don't want that.
+Dialogue: 0,0:02:13.24,0:02:17.58,Default,,0,0,0,,I don't want anyone\Nbut my brother to touch me.
+Dialogue: 0,0:02:21.49,0:02:24.04,Default,,0,0,0,,Because...
+Dialogue: 0,0:02:24.04,0:02:27.62,Default,,0,0,0,,I belong to my brother, body and soul...
+Dialogue: 0,0:04:04.29,0:04:07.70,Default,,0,0,0,,Pixie... Cancel suspend mode.
+Dialogue: 0,0:04:07.70,0:04:09.79,Default,,0,0,0,,What do you require?
+Dialogue: 0,0:04:09.79,0:04:14.16,Default,,0,0,0,,I want to ask you\Nabout the vampire incidents.
+Dialogue: 0,0:04:15.74,0:04:21.74,Default,,0,0,0,,First, were the parasites responsible\Nfor the victims' blood loss?
+Dialogue: 0,0:04:21.74,0:04:23.99,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:23.99,0:04:26.49,Default,,0,0,0,,Why did you need blood\Nfrom a living person?
+Dialogue: 0,0:04:26.49,0:04:29.58,Default,,0,0,0,,Blood loss was not our intent.
+Dialogue: 0,0:04:29.58,0:04:33.24,Default,,0,0,0,,It was a side effect of mistaken propagation.
+Dialogue: 0,0:04:33.24,0:04:37.79,Default,,0,0,0,,Our propagation process starts\Nby cutting off part of ourselves...
+Dialogue: 0,0:04:37.79,0:04:41.24,Default,,0,0,0,,and sending it into a recipient.
+Dialogue: 0,0:04:41.24,0:04:45.66,Default,,0,0,0,,The separate body spreads through blood vessels\Nwhile absorbing Psions and Pushions
+Dialogue: 0,0:04:45.66,0:04:47.62,Default,,0,0,0,,in the bloodstream.
+Dialogue: 0,0:04:47.62,0:04:51.74,Default,,0,0,0,,It permeates the recipient's physical body\Nby exchanging itself for their blood.
+Dialogue: 0,0:04:51.74,0:04:56.87,Default,,0,0,0,,Wait. You are bodies of information.\NYou don't have mass.
+Dialogue: 0,0:04:56.87,0:05:00.20,Default,,0,0,0,,Where does the exchanged blood matter go?
+Dialogue: 0,0:05:00.20,0:05:04.37,Default,,0,0,0,,It is used to modify their body\Nduring assimilation.
+Dialogue: 0,0:05:04.37,0:05:05.91,Default,,0,0,0,,Should assimilation fail,
+Dialogue: 0,0:05:05.91,0:05:11.45,Default,,0,0,0,,the separate body is expelled\Nfrom the recipient's body as vitality.
+Dialogue: 0,0:05:11.45,0:05:13.49,Default,,0,0,0,,So, that's how it works.
+Dialogue: 0,0:05:13.49,0:05:15.91,Default,,0,0,0,,Should permeation of the body succeed,
+Dialogue: 0,0:05:15.91,0:05:19.62,Default,,0,0,0,,we can control its information body,\Nits ethereal body.
+Dialogue: 0,0:05:19.62,0:05:22.66,Default,,0,0,0,,An interplay between physical bodies\Nand information bodies?
+Dialogue: 0,0:05:22.66,0:05:25.33,Default,,0,0,0,,The same basic tenet as magic.
+Dialogue: 0,0:05:25.33,0:05:29.16,Default,,0,0,0,,If we can access the recipient's mental body\Nthrough their ethereal body and merge with it,
+Dialogue: 0,0:05:29.16,0:05:32.04,Default,,0,0,0,,our propagation succeeds.
+Dialogue: 0,0:05:32.04,0:05:35.66,Default,,0,0,0,,Unfortunately, however,\Nwe have had no successes.
+Dialogue: 0,0:05:35.66,0:05:36.19,Default,,0,0,0,,Why not?
+Dialogue: 0,0:05:36.19,0:05:38.33,Default,,0,0,0,,Unknown.
+Dialogue: 0,0:05:38.33,0:05:40.87,Default,,0,0,0,,I wanted to know this, as well.
+Dialogue: 0,0:05:40.87,0:05:45.62,Default,,0,0,0,,For some reason,\Nthe idea alone remains within me.
+Dialogue: 0,0:05:45.62,0:05:47.74,Default,,0,0,0,,Before you inhabited that body,
+Dialogue: 0,0:05:47.74,0:05:53.37,Default,,0,0,0,,you all appeared to move as an organized group\Nwith a common objective in mind.
+Dialogue: 0,0:05:53.37,0:05:58.24,Default,,0,0,0,,Does one of you correspond\Nto a leadership position?
+Dialogue: 0,0:05:58.24,0:06:02.37,Default,,0,0,0,,There exists no command structure among us.
+Dialogue: 0,0:06:02.37,0:06:08.74,Default,,0,0,0,,Strictly speaking, each one of us\Nis not a perfectly autonomous individual.
+Dialogue: 0,0:06:08.74,0:06:11.20,Default,,0,0,0,,We are both individuals and the whole.
+Dialogue: 0,0:06:11.20,0:06:15.58,Default,,0,0,0,,We possess the ability to think individually,\Nbut we share our consciousness.
+Dialogue: 0,0:06:15.58,0:06:18.29,Default,,0,0,0,,Is that how you communicate\Nwith each other?
+Dialogue: 0,0:06:19.29,0:06:20.79,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:20.79,0:06:24.04,Default,,0,0,0,,Where are the other parasites right now?
+Dialogue: 0,0:06:24.04,0:06:26.29,Default,,0,0,0,,Current locations unknown.
+Dialogue: 0,0:06:26.29,0:06:31.33,Default,,0,0,0,,However, I sense their thought waves,\Nsearching for me.
+Dialogue: 0,0:07:26.99,0:07:29.37,Default,,0,0,0,,We have finally awoken.
+Dialogue: 0,0:07:29.37,0:07:32.83,Default,,0,0,0,,Chinese necromancy is certainly something.
+Dialogue: 0,0:07:32.83,0:07:38.79,Default,,0,0,0,,Then, even if our flesh is destroyed,\Nwe can quickly resume activities.
+Dialogue: 0,0:07:38.79,0:07:41.49,Default,,0,0,0,,Now, we just need to get back\Nthe one who is missing.
+Dialogue: 0,0:07:41.49,0:07:44.16,Default,,0,0,0,,Let us take back our missing comrade.
+Dialogue: 0,0:07:44.74,0:07:47.87,Default,,0,0,0,,Let us search for our missing comrade.
+Dialogue: 0,0:07:50.24,0:07:52.74,Default,,0,0,0,,Pixie, change into this.
+Dialogue: 0,0:07:53.66,0:07:55.54,Default,,0,0,0,,At once, sir.
+Dialogue: 0,0:08:11.16,0:08:12.66,Default,,0,0,0,,Brother!
+Dialogue: 0,0:08:13.24,0:08:15.83,Default,,0,0,0,,How can you watch that so calmly?
+Dialogue: 0,0:08:15.83,0:08:19.35,Default,,0,0,0,,Why? Miyuki, Pixie is a robot, you know.
+Dialogue: 0,0:08:18.91,0:08:21.24,Default,,0,0,0,,{\an8}She may be a robot,\Nbut she's still a girl!
+Dialogue: 0,0:08:21.24,0:08:23.37,Default,,0,0,0,,Well, she may be shaped\Nlike a person, but--
+Dialogue: 0,0:08:23.37,0:08:24.99,Default,,0,0,0,,It's not right!
+Dialogue: 0,0:08:24.99,0:08:27.66,Default,,0,0,0,,Please turn around, Brother!
+Dialogue: 0,0:08:33.33,0:08:35.95,Default,,0,0,0,,It's okay now, Tatsuya.
+Dialogue: 0,0:08:44.12,0:08:46.37,Default,,0,0,0,,Pixie, come with us.
+Dialogue: 0,0:08:46.99,0:08:50.24,Default,,0,0,0,,Yes, Master.
+Dialogue: 0,0:08:50.24,0:08:54.12,Default,,0,0,0,,Brother, where are we headed to?
+Dialogue: 0,0:08:54.12,0:08:55.74,Default,,0,0,0,,Aoyama Cemetery.
+Dialogue: 0,0:08:55.74,0:08:57.74,Default,,0,0,0,,Aoyama Cemetery...
+Dialogue: 0,0:08:57.74,0:09:02.33,Default,,0,0,0,,I'm sure we're not going there\Nfor an off-season test of courage.
+Dialogue: 0,0:09:02.33,0:09:06.29,Default,,0,0,0,,Is it just that ghosts\Ntend to crop up in places like that?
+Dialogue: 0,0:09:06.29,0:09:10.29,Default,,0,0,0,,You're quick on the uptake. I'm sure\Nno one will be around to interfere with us.
+Dialogue: 0,0:09:10.29,0:09:14.83,Default,,0,0,0,,Well, it was something\Nyou thought of, Brother.
+Dialogue: 0,0:09:18.66,0:09:23.66,Default,,0,0,0,,Um, Tatsuya, it's late,\Nso won't it be closed?
+Dialogue: 0,0:09:23.66,0:09:26.04,Default,,0,0,0,,We probably can't get inside.
+Dialogue: 0,0:09:26.04,0:09:29.49,Default,,0,0,0,,But if we get close,\Nthey'll come out for us.
+Dialogue: 0,0:09:29.49,0:09:32.66,Default,,0,0,0,,That's why we brought Pixie along.
+Dialogue: 0,0:09:32.66,0:09:35.54,Default,,0,0,0,,And if anyone stops and questions us,
+Dialogue: 0,0:09:35.54,0:09:38.04,Default,,0,0,0,,you'll be here\Nto do something about it, right?
+Dialogue: 0,0:09:40.33,0:09:42.04,Default,,0,0,0,,Please leave it to me!
+Dialogue: 0,0:09:43.41,0:09:47.33,Default,,0,0,0,,I guess I'll let Leo, Erika and\NMikihiko know where we're going.
+Dialogue: 0,0:09:47.33,0:09:51.15,Default,,0,0,0,,{\fad(0,1000)\an8}"THE PLACE IS AOYAMA CEMETERY."
+Dialogue: 0,0:09:52.37,0:09:54.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC VIII
+Dialogue: 0,0:10:04.16,0:10:06.08,Default,,0,0,0,,Aoyama Cemetery...
+Dialogue: 0,0:10:08.62,0:10:10.83,Default,,0,0,0,,The mission begins now.
+Dialogue: 0,0:10:10.83,0:10:13.04,Default,,0,0,0,,The destination is Aoyama Cemetery.
+Dialogue: 0,0:10:13.04,0:10:13.75,Default,,0,0,0,,Let's get going.
+Dialogue: 0,0:10:13.75,0:10:14.99,Default,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:10:18.49,0:10:20.49,Default,,0,0,0,,What a huge failure.
+Dialogue: 0,0:10:26.37,0:10:27.62,Default,,0,0,0,,Excuse me, ma'am.
+Dialogue: 0,0:10:27.62,0:10:28.83,Default,,0,0,0,,Enter.
+Dialogue: 0,0:10:33.04,0:10:36.66,Default,,0,0,0,,There is someone who wishes\Nto meet with you, Colonel.
+Dialogue: 0,0:10:36.66,0:10:38.54,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:10:38.54,0:10:40.87,Default,,0,0,0,,Her name is Ayako Kuroba, ma'am.
+Dialogue: 0,0:10:40.87,0:10:43.04,Default,,0,0,0,,She says she's an agent of the Yotsuba Family.
+Dialogue: 0,0:10:43.04,0:10:44.95,Default,,0,0,0,,Yotsuba?
+Dialogue: 0,0:10:44.95,0:10:48.62,Default,,0,0,0,,The Yotsubas, known and feared\Nas "Untouchables."
+Dialogue: 0,0:10:48.62,0:10:50.66,Default,,0,0,0,,What do they want with me?
+Dialogue: 0,0:10:50.66,0:10:55.04,Default,,0,0,0,,It is an honor to make\Nyour acquaintance, Ms. Balance.
+Dialogue: 0,0:10:55.04,0:10:58.37,Default,,0,0,0,,My name is Ayako Kuroba.
+Dialogue: 0,0:10:58.37,0:11:04.04,Default,,0,0,0,,Colonel Virginia Balance,\NUSNA military JCS.
+Dialogue: 0,0:11:04.04,0:11:08.45,Default,,0,0,0,,I know how busy you must be,\Nso thank you for agreeing to see me.
+Dialogue: 0,0:11:08.45,0:11:10.54,Default,,0,0,0,,I've come here today to make a request
+Dialogue: 0,0:11:10.54,0:11:16.29,Default,,0,0,0,,as an agent of Maya Yotsuba, leader of\Nthe Yotsuba Family, one of the Ten Master Clans.
+Dialogue: 0,0:11:16.29,0:11:17.91,Default,,0,0,0,,Go on.
+Dialogue: 0,0:11:17.91,0:11:21.04,Default,,0,0,0,,Very well, then.
+Dialogue: 0,0:11:21.04,0:11:22.99,Default,,0,0,0,,Colonel, we would like you\Nto cease the interference
+Dialogue: 0,0:11:22.99,0:11:27.70,Default,,0,0,0,,with our country's magicians\Nbeing carried out at your command.
+Dialogue: 0,0:11:28.62,0:11:35.66,Default,,0,0,0,,Our leader, Maya Yotsuba, has concerns\Nover your excessive interference.
+Dialogue: 0,0:11:35.66,0:11:38.74,Default,,0,0,0,,She said that since our nations\Nare allied with each other,
+Dialogue: 0,0:11:38.74,0:11:42.83,Default,,0,0,0,,she did not want to make this affair\Ninto a trigger for any sort of conflict.
+Dialogue: 0,0:11:42.83,0:11:44.70,Default,,0,0,0,,Is that a warning?
+Dialogue: 0,0:11:44.70,0:11:47.83,Default,,0,0,0,,Will you light the trigger if we don't withdraw?
+Dialogue: 0,0:11:52.66,0:11:54.04,Default,,0,0,0,,Colonel...
+Dialogue: 0,0:11:54.04,0:11:58.24,Default,,0,0,0,,Did you sleep well last night?
+Dialogue: 0,0:11:58.24,0:12:00.29,Default,,0,0,0,,That was you?
+Dialogue: 0,0:12:00.29,0:12:02.29,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:12:02.29,0:12:10.70,Default,,0,0,0,,Respectfully, your face doesn't look well,\Nso I simply offered my concern.
+Dialogue: 0,0:12:10.70,0:12:14.83,Default,,0,0,0,,Colonel, please allow your nerves to settle.
+Dialogue: 0,0:12:14.83,0:12:20.54,Default,,0,0,0,,If at all possible, we would like to build\Na friendly relationship with you.
+Dialogue: 0,0:12:20.54,0:12:23.04,Default,,0,0,0,,A friendly relationship?
+Dialogue: 0,0:12:23.04,0:12:27.99,Default,,0,0,0,,You are aware of the power of the Yotsuba.
+Dialogue: 0,0:12:27.99,0:12:33.54,Default,,0,0,0,,And we are well aware of yours, Colonel.
+Dialogue: 0,0:12:33.54,0:12:37.91,Default,,0,0,0,,Our leader has said that if you would arrange\Nto withdraw from this incident,
+Dialogue: 0,0:12:37.91,0:12:44.99,Default,,0,0,0,,we will not forget\Nour gratitude to you personally.
+Dialogue: 0,0:12:44.99,0:12:51.16,Default,,0,0,0,,And that, if there is an opportunity\Nin the future, we would be able to assist you.
+Dialogue: 0,0:12:59.16,0:13:00.74,Default,,0,0,0,,Fine.
+Dialogue: 0,0:13:03.16,0:13:05.68,Default,,0,0,0,,{\fad(0,300)\shad2\fs39\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(564,86)\clip(148,34,336,134)\t(0,200,\clip(148,24,1006,134))}JGDF COUNTERINTELLIGENCE DEPARTMENT SECTION THREE
+Dialogue: 0,0:13:03.70,0:13:06.54,Default,,0,0,0,,Observation target\Ncurrently moving toward the city.
+Dialogue: 0,0:13:06.54,0:13:08.74,Default,,0,0,0,,His sister and two others with him.
+Dialogue: 0,0:13:08.74,0:13:11.70,Default,,0,0,0,,Running video verification with their photos\Nbefore getting on the train.
+Dialogue: 0,0:13:14.04,0:13:15.66,Default,,0,0,0,,A classmate.
+Dialogue: 0,0:13:15.66,0:13:20.66,Default,,0,0,0,,Odd tastes, bringing his sister along\Non a date like that. Who's the other one?
+Dialogue: 0,0:13:20.66,0:13:23.49,Default,,0,0,0,,She's not a human.
+Dialogue: 0,0:13:23.49,0:13:27.37,Default,,0,0,0,,It seems to be a type P94\NHumanoid Home Helper.
+Dialogue: 0,0:13:27.37,0:13:30.91,Default,,0,0,0,,Where could he be bringing it?
+Dialogue: 0,0:13:30.91,0:13:35.70,Default,,0,0,0,,Chief, the train with the target on it\Nhas changed course.
+Dialogue: 0,0:13:35.70,0:13:38.95,Default,,0,0,0,,Akasaka... No, Aoyama?
+Dialogue: 0,0:13:38.95,0:13:42.20,Default,,0,0,0,,Position operatives disguised\Nas police officers along Aoyama Road!
+Dialogue: 0,0:13:42.20,0:13:46.54,Default,,0,0,0,,If the target group uses magic,\Npretend to arrest and capture them!
+Dialogue: 0,0:13:52.16,0:13:54.41,Default,,0,0,0,,What's wrong, Brother?
+Dialogue: 0,0:13:54.41,0:13:56.70,Default,,0,0,0,,Someone is spying on us.
+Dialogue: 0,0:14:08.20,0:14:12.20,Default,,0,0,0,,It feels like Counterintelligence Section Three.
+Dialogue: 0,0:14:19.20,0:14:21.62,Default,,0,0,0,,Wh-What am I picking up?
+Dialogue: 0,0:14:27.58,0:14:29.16,Default,,0,0,0,,Tatsuya!
+Dialogue: 0,0:14:29.16,0:14:33.70,Default,,0,0,0,,I put everyone\Nwho was watching us to sleep!
+Dialogue: 0,0:14:34.66,0:14:36.12,Default,,0,0,0,,Nice work.
+Dialogue: 0,0:14:36.12,0:14:41.16,Default,,0,0,0,,Let's get away from here\Nbefore their friends come running.
+Dialogue: 0,0:14:48.20,0:14:51.70,Default,,0,0,0,,What a troubling young lady.
+Dialogue: 0,0:14:51.70,0:14:56.33,Default,,0,0,0,,But what splendid skill,\Ntaking down four foes at once.
+Dialogue: 0,0:14:56.33,0:14:59.95,Default,,0,0,0,,Her name is Honoka Mitsui, right?
+Dialogue: 0,0:14:59.95,0:15:01.83,Default,,0,0,0,,That's right...
+Dialogue: 0,0:15:01.83,0:15:05.04,Default,,0,0,0,,Grandfather.
+Dialogue: 0,0:15:05.04,0:15:10.70,Default,,0,0,0,,Considering her name\Nand her specialty type of magic...
+Dialogue: 0,0:15:10.70,0:15:14.41,Default,,0,0,0,,I wonder if she's part\Nof the Elements bloodline of light.
+Dialogue: 0,0:15:20.99,0:15:24.41,Default,,0,0,0,,Master, three parasites are approaching.
+Dialogue: 0,0:15:24.41,0:15:26.20,Default,,0,0,0,,So, they did come.
+Dialogue: 0,0:15:40.20,0:15:43.41,Default,,0,0,0,,Tatsuya Shiba, we want to talk.
+Dialogue: 0,0:15:43.41,0:15:47.45,Default,,0,0,0,,What should I call you?
+Dialogue: 0,0:15:47.45,0:15:49.08,Default,,0,0,0,,Marte.
+Dialogue: 0,0:15:49.08,0:15:53.91,Default,,0,0,0,,Then, Mr. Marte, what on earth do you want?
+Dialogue: 0,0:15:53.91,0:15:59.66,Default,,0,0,0,,We demons have no further intent\Nto engage in any hostile actions toward you,
+Dialogue: 0,0:15:59.66,0:16:01.58,Default,,0,0,0,,the magicians of Japan.
+Dialogue: 0,0:16:01.58,0:16:06.99,Default,,0,0,0,,In exchange for promising\Nto end hostilities against you...
+Dialogue: 0,0:16:06.99,0:16:11.24,Default,,0,0,0,,we want you to hand that robot over to us.
+Dialogue: 0,0:16:12.70,0:16:15.66,Default,,0,0,0,,Would you mind talking\Na little more politely?
+Dialogue: 0,0:16:15.66,0:16:23.12,Default,,0,0,0,,I don't have any way to answer unless\Nyou explain why you want us to hand it over.
+Dialogue: 0,0:16:23.12,0:16:25.99,Default,,0,0,0,,I hadn't thought explanation necessary.
+Dialogue: 0,0:16:25.99,0:16:30.45,Default,,0,0,0,,In fact, you should have no reason\Nto take that robot's part.
+Dialogue: 0,0:16:30.45,0:16:32.99,Default,,0,0,0,,We're the ones who decide\Nif we have a reason or not.
+Dialogue: 0,0:16:34.62,0:16:39.87,Default,,0,0,0,,We wish to release our comrade\Nwho is imprisoned inside that robot.
+Dialogue: 0,0:16:39.87,0:16:42.49,Default,,0,0,0,,Is your comrade not allowed\Nto have a robot for a host?
+Dialogue: 0,0:16:42.49,0:16:47.16,Default,,0,0,0,,Our mutual connections\Nare much stronger than you humans'.
+Dialogue: 0,0:16:47.16,0:16:51.58,Default,,0,0,0,,Is the fact that we want\Nto get our comrade, a living creature,
+Dialogue: 0,0:16:51.58,0:16:57.54,Default,,0,0,0,,out of a lifeless vessel\Nso difficult for you to understand?
+Dialogue: 0,0:16:57.54,0:16:59.83,Default,,0,0,0,,No, I understand it.
+Dialogue: 0,0:16:59.83,0:17:01.74,Default,,0,0,0,,But how?
+Dialogue: 0,0:17:01.74,0:17:04.04,Default,,0,0,0,,We will destroy the machine.
+Dialogue: 0,0:17:04.04,0:17:10.33,Default,,0,0,0,,Should the current host be lost,\Nwe can move to a new one.
+Dialogue: 0,0:17:10.33,0:17:11.99,Default,,0,0,0,,I see.
+Dialogue: 0,0:17:11.99,0:17:14.83,Default,,0,0,0,,That's his offer, Pixie.
+Dialogue: 0,0:17:14.83,0:17:18.33,Default,,0,0,0,,Do you wish to be released from there?
+Dialogue: 0,0:17:18.33,0:17:20.12,Default,,0,0,0,,No, I don't, Master!
+Dialogue: 0,0:17:20.12,0:17:22.16,Default,,0,0,0,,I am me!
+Dialogue: 0,0:17:22.16,0:17:27.49,Default,,0,0,0,,My wish is to belong to you, Master.\NThat is who I am!
+Dialogue: 0,0:17:27.49,0:17:32.37,Default,,0,0,0,,I do not care any more\Nwhat sort of being I originally was
+Dialogue: 0,0:17:32.37,0:17:37.20,Default,,0,0,0,,nor where I received\Nthe wish constituting my core!
+Dialogue: 0,0:17:37.20,0:17:42.29,Default,,0,0,0,,I do not want to stop being me!
+Dialogue: 0,0:17:43.87,0:17:46.95,Default,,0,0,0,,That's what she says, Brother.
+Dialogue: 0,0:17:46.95,0:17:48.62,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:48.62,0:17:53.70,Default,,0,0,0,,Anyway, I expect\Nyou can guess our answer already,
+Dialogue: 0,0:17:53.70,0:17:57.87,Default,,0,0,0,,but before I spell it out for you,\Nthere are two or three things I want to ask.
+Dialogue: 0,0:17:57.87,0:18:01.66,Default,,0,0,0,,It seems you are more foolish\Nthan we thought, Tatsuya Shiba.
+Dialogue: 0,0:18:01.66,0:18:03.66,Default,,0,0,0,,We are disappointed.
+Dialogue: 0,0:18:03.66,0:18:07.58,Default,,0,0,0,,Fine, then.\NSay what questions you have.
+Dialogue: 0,0:18:07.58,0:18:10.62,Default,,0,0,0,,Before, you said\Nyou didn't have any intention
+Dialogue: 0,0:18:10.62,0:18:13.79,Default,,0,0,0,,of engaging in hostilities\Nagainst magicians, right?
+Dialogue: 0,0:18:13.79,0:18:18.70,Default,,0,0,0,,Why wasn't it against people\Ninstead of against magicians?
+Dialogue: 0,0:18:18.70,0:18:20.54,Default,,0,0,0,,If we had accepted your request,
+Dialogue: 0,0:18:20.54,0:18:23.45,Default,,0,0,0,,you demons wouldn't have\Nacted hostile toward magicians.
+Dialogue: 0,0:18:23.45,0:18:27.29,Default,,0,0,0,,Then, how would you act\Ntoward non-magician people?
+Dialogue: 0,0:18:28.16,0:18:30.79,Default,,0,0,0,,After you destroyed Pixie's body...
+Dialogue: 0,0:18:30.79,0:18:34.08,Default,,0,0,0,,what would you have her inhabit next?
+Dialogue: 0,0:18:34.08,0:18:35.45,Default,,0,0,0,,Answer me.
+Dialogue: 0,0:18:37.66,0:18:42.99,Default,,0,0,0,,You possess only superficial cunning\Nthat requires no real wit.
+Dialogue: 0,0:18:42.99,0:18:48.49,Default,,0,0,0,,We're telling you we won't be your enemies\Nanymore. Why are you not satisfied with that?
+Dialogue: 0,0:18:48.49,0:18:52.12,Default,,0,0,0,,We demons are not compatible with humans
+Dialogue: 0,0:18:52.12,0:18:56.66,Default,,0,0,0,,in the same way that you magicians\Nare different from other people, am I wrong?
+Dialogue: 0,0:18:56.66,0:18:57.36,Default,,0,0,0,,Really, now?
+Dialogue: 0,0:18:57.36,0:19:00.62,Default,,0,0,0,,My host was a magician, as well.
+Dialogue: 0,0:19:00.62,0:19:06.74,Default,,0,0,0,,That is why I understand\Nthe way humans treat magicians.
+Dialogue: 0,0:19:06.74,0:19:11.87,Default,,0,0,0,,To humans, magicians are tools and lab rats.
+Dialogue: 0,0:19:11.87,0:19:16.16,Default,,0,0,0,,A magician's wishes are too trivial\Nfor humans to take notice of.
+Dialogue: 0,0:19:17.08,0:19:23.41,Default,,0,0,0,,Why do you do right by people\Nwho think of nothing more than using you?
+Dialogue: 0,0:19:23.41,0:19:29.12,Default,,0,0,0,,You have your own wishes\Nand your own hopes. Don't you?
+Dialogue: 0,0:19:30.24,0:19:33.91,Default,,0,0,0,,This all sounds like by-the-book stuff.
+Dialogue: 0,0:19:33.91,0:19:37.87,Default,,0,0,0,,For someone who just treated me like a fool...
+Dialogue: 0,0:19:37.87,0:19:39.99,Default,,0,0,0,,you sure are stupid.
+Dialogue: 0,0:19:42.08,0:19:45.08,Default,,0,0,0,,You won't harm magicians.
+Dialogue: 0,0:19:45.08,0:19:46.99,Default,,0,0,0,,That's fine. It really is.
+Dialogue: 0,0:19:46.99,0:19:52.58,Default,,0,0,0,,But you've already hurt\Nmy magician friends.
+Dialogue: 0,0:19:52.58,0:19:55.41,Default,,0,0,0,,Do I have any reason to believe
+Dialogue: 0,0:19:55.41,0:20:00.45,Default,,0,0,0,,that you won't hurt them in the future\Nwhen you haven't given even a word of apology?
+Dialogue: 0,0:20:00.45,0:20:04.20,Default,,0,0,0,,It's no different from\Nthe catchphrases that proclaim
+Dialogue: 0,0:20:04.20,0:20:05.99,Default,,0,0,0,,to protect a magician's human rights.
+Dialogue: 0,0:20:06.99,0:20:11.24,Default,,0,0,0,,Come to think of it,\NI never gave you my answer.
+Dialogue: 0,0:20:11.24,0:20:14.12,Default,,0,0,0,,Well, it's "no."
+Dialogue: 0,0:20:14.12,0:20:16.24,Default,,0,0,0,,You impudent little...
+Dialogue: 0,0:20:18.04,0:20:20.12,Default,,0,0,0,,So easy to understand.
+Dialogue: 0,0:20:20.12,0:20:23.87,Default,,0,0,0,,I'll make this easy\Nfor you to understand, too.
+Dialogue: 0,0:20:26.29,0:20:29.12,Default,,0,0,0,,Put down your weapons\Nand surrender peacefully.
+Dialogue: 0,0:20:29.12,0:20:32.33,Default,,0,0,0,,If you do, we won't have to hurt you.
+Dialogue: 0,0:20:32.33,0:20:35.83,Default,,0,0,0,,I promise you'll be happy lab rats.
+Dialogue: 0,0:20:35.83,0:20:39.62,Default,,0,0,0,,You... human dog!
+Dialogue: 0,0:20:39.62,0:20:41.41,Default,,0,0,0,,The signs of magic activation...
+Dialogue: 0,0:20:41.41,0:20:43.24,Default,,0,0,0,,But...
+Dialogue: 0,0:20:43.24,0:20:44.87,Default,,0,0,0,,What?
+Dialogue: 0,0:21:02.29,0:21:04.29,Default,,0,0,0,,If I destroy his physical body,
+Dialogue: 0,0:21:04.29,0:21:07.70,Default,,0,0,0,,the parasite will scatter\Nin search of a different host.
+Dialogue: 0,0:21:07.70,0:21:12.54,Default,,0,0,0,,If I had Miyuki freeze him with magic,\Nhe'd self-destruct and escape.
+Dialogue: 0,0:21:12.54,0:21:19.70,Default,,0,0,0,,The parasites don't possess\Nphysical organs but a person's mind.
+Dialogue: 0,0:21:19.70,0:21:23.91,Default,,0,0,0,,Therefore, there's no real reason\Nto strike one part of the body over another.
+Dialogue: 0,0:21:23.91,0:21:29.37,Default,,0,0,0,,So, it's best to strike at the place\Nmost deeply connected to the rest of the body.
+Dialogue: 0,0:21:38.12,0:21:39.83,Default,,0,0,0,,Brother!
+Dialogue: 0,0:22:06.37,0:22:07.58,Default,,0,0,0,,Honoka!
+Dialogue: 0,0:22:07.58,0:22:08.99,Default,,0,0,0,,I'm all right!
+Dialogue: 0,0:22:09.49,0:22:12.95,Default,,0,0,0,,After all... I want to...
+Dialogue: 0,0:22:12.95,0:22:15.45,Default,,0,0,0,,I want to be able to help Tatsuya, too!
+Dialogue: 0,0:22:31.04,0:22:32.91,Default,,0,0,0,,That's...
+Dialogue: 0,0:23:48.41,0:23:52.04,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC IX
